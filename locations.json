@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "title": "Studio 99",
+    "description": "A professional recording studio offering state-of-the-art equipment and acoustics.",
+    "latitude": 51.9225,
+    "longitude": 4.47917
+  },
+  {
+    "id": 2,
+    "title": "Theater Rotterdam",
+    "description": "A major theatre complex hosting a wide range of performances including drama, dance, and music.",
+    "latitude": 51.9167,
+    "longitude": 4.47861
+  },
+  {
+    "id": 3,
+    "title": "Boijmans Van Beuningen Museum",
+    "description": "An art museum showcasing a vast collection of artworks from different eras.",
+    "latitude": 51.9153,
+    "longitude": 4.47417
+  },
+  {
+    "id": 4,
+    "title": "Rotterdam Art Studio",
+    "description": "A vibrant studio space for local artists to create and exhibit their work.",
+    "latitude": 51.9175,
+    "longitude": 4.48417
+  },
+  {
+    "id": 5,
+    "title": "Kunsthal Rotterdam",
+    "description": "A cultural institution presenting temporary exhibitions of modern and contemporary art.",
+    "latitude": 51.9144,
+    "longitude": 4.47333
+  },
+  {
+    "id": 6,
+    "title": "WORM Rotterdam",
+    "description": "An experimental venue for avant-garde music, film, and performance art.",
+    "latitude": 51.9178,
+    "longitude": 4.48139
+  },
+  {
+    "id": 7,
+    "title": "Maassilo",
+    "description": "A former grain silo now converted into a music and event venue with multiple stages.",
+    "latitude": 51.9022,
+    "longitude": 4.49167
+  },
+  {
+    "id": 8,
+    "title": "Theater Walhalla",
+    "description": "A small, intimate theatre offering a variety of performances and shows.",
+    "latitude": 51.9158,
+    "longitude": 4.48694
+  },
+  {
+    "id": 9,
+    "title": "Rotterdam Philharmonic Orchestra",
+    "description": "The home of the city's renowned philharmonic orchestra.",
+    "latitude": 51.9242,
+    "longitude": 4.48194
+  },
+  {
+    "id": 10,
+    "title": "LP2 Exhibition Space",
+    "description": "A modern exhibition space hosting contemporary art shows and events.",
+    "latitude": 51.9025,
+    "longitude": 4.48750
+  },
+  {
+    "id": 11,
+    "title": "Louvri Music Studios",
+    "description": "A professional music studio.",
+    "latitude": 51.9086,
+    "longitude": 4.48722
+  },
+  {
+    "id": 12,
+    "title": "V2_Lab for the Unstable Media",
+    "description": "An interdisciplinary center for art and media technology.",
+    "latitude": 51.9186,
+    "longitude": 4.48222
+  },
+  {
+    "id": 13,
+    "title": "Galerie Atelier Herenplaats",
+    "description": "A gallery and studio for artists with intellectual disabilities.",
+    "latitude": 51.9211,
+    "longitude": 4.48583
+  },
+  {
+    "id": 14,
+    "title": "De Doelen",
+    "description": "A concert hall and convention center in Rotterdam.",
+    "latitude": 51.9228,
+    "longitude": 4.47111
+  },
+  {
+    "id": 15,
+    "title": "TENT Rotterdam",
+    "description": "A contemporary art center presenting exhibitions, events, and educational programs.",
+    "latitude": 51.9161,
+    "longitude": 4.48833
+  }
+]
+
