@@ -20,8 +20,11 @@ export function ThemeProviderWrapper({ children }) {
         await AsyncStorage.setItem('theme', newTheme === DarkTheme ? 'dark' : 'light');
     };
 
+    // Hier bepalen of dark mode actief is
+    const isDarkMode = theme === DarkTheme;
+
     return (
-        <ThemeContext.Provider value={{ theme, toggleTheme }}>
+        <ThemeContext.Provider value={{ theme, toggleTheme, isDarkMode }}>
             {children}
         </ThemeContext.Provider>
     );
